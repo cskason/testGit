@@ -1,1 +1,4 @@
 test_bugfix
+task_0002
+task_0003
+task_0005
